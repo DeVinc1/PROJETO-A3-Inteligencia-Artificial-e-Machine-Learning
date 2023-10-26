@@ -6,7 +6,7 @@ Para realizar o projeto, será usada uma base de dados do Kaggle na qual serão 
 
 Serão usados 3 modelos de ML diferentes separados em pastas diferentes com seu próprio código e documentação
 
-Estrutura do Repositório
+Estrutura do Repositório:
 
  -**📁 ENTREGA 02** -- Descrição e documento referente a entrega 02;
  
