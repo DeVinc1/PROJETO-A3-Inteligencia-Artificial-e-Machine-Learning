@@ -9,6 +9,7 @@ Serão usados 3 modelos de ML diferentes separados em pastas diferentes com seu 
 ## 🔨 Estado de Desenvolvimento 
 
 - 26/10 - A *database* que será utilizada para o projeto foi definida e foi documentada na Entrega 02, onde todas as suas tabelas e colunas foram exploradas e descritas.
+- 02/11 - A *database* foi polida, com tabelas e colunas desnecessárias sendo desconsideradas; valores nulos e ausentes sendo tratados e a variável target sendo definida e justificada.
 
 ## Estrutura do Repositório:
 
