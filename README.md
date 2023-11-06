@@ -13,5 +13,5 @@ Serão usados 3 modelos de ML diferentes separados em pastas diferentes com seu 
 
 ## Estrutura do Repositório:
 
- -**📁 ENTREGA 02** -- Descrição e documento referente a entrega 02;
- -**📁 ENTREGA 03** -- Descrição e documento referente a entrega 03;
+ - **📁 ENTREGA 02** -- Descrição e documento referente a entrega 02;
+ - **📁 ENTREGA 03** -- Descrição e documento referente a entrega 03;
